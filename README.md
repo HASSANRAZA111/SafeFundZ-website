@@ -1,0 +1,2 @@
+# More about this website
+Moreover,I developed this project for an online client, creating a captivating website consisting of a single home page. Utilizing HTML, CSS, and JavaScript, I meticulously designed the site with engaging transitions, dynamic transformations, animations, and intriguing designs. Additionally, I implemented various logics to enhance functionality and user experience.
